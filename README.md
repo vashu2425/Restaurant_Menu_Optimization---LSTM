@@ -1,4 +1,4 @@
-# Food Review Rating Prediction
+# Food Rating Prediction And Menu Optimization
 
 ## Overview  
 This project predicts food recipe ratings using user reviews and recipe details. It integrates LSTM-based text processing with numerical features like cooking time and nutritional content to predict ratings effectively.
